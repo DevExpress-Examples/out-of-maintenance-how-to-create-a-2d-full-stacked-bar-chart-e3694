@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/FullStackedBarChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/FullStackedBarChart/MainPage.xaml))
+<!-- default file list end -->
 # How to create a 2D Full-Stacked Bar chart
 
 
