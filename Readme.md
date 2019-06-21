@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/FullStackedBarChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/FullStackedBarChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Full-Stacked Bar chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3694)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Full-Stacked Bar chart.</p><br />
